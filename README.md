@@ -1,16 +1,25 @@
-## Hi there 👋
+# Arjun Mungath
 
-<!--
-**arjunchandranm/arjunchandranm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Technology graduate specializing in Artificial Intelligence (Centennial College, April 2026). I build AI applications, NLP pipelines, and machine learning systems end-to-end.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python · SQL · JavaScript · C# · Java · Bash  
+AI & ML: LLMs · RAG · TF-IDF · DistilBART · Flan-T5 · scikit-learn · DCGAN · HuggingFace  
+Tools: Git · GitHub · VS Code · Jupyter Notebook · Google Colab · Linux/Unix  
+Cloud: Azure · Google Cloud · AWS  
+
+## Projects
+
+[AI Virtual Clinic](https://github.com/arjunchandranm/ai-virtual-clinic)  
+Full-stack healthcare app with LLM triage and RAG pipeline — Python · LLM · RAG
+
+[NLP Sentiment Pipeline](https://github.com/arjunchandranm/nlp-sentiment-pipeline) 
+End-to-end NLP pipeline with multi-model benchmarking and automated responses — Python · DistilBART · Flan-T5
+
+[DCGAN Fashion Generator](https://github.com/arjunchandranm/dcgan-fashion-mnist)  
+Generative model trained on Fashion-MNIST — Python · PyTorch
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/arjun-chandran-m) · arjunchandrandeli@gmail.com
